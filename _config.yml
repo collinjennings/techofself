@@ -6,11 +6,11 @@
 # 'jekyll serve'. If you change this file, please restart the server process.
 
 # Site settings
-title: Digital Technologies of Self
+title: ENG/IMS 171 - Technologies of Self
 email: your-email@domain.com
 description: > # this means to ignore newlines until "baseurl:"
-  We will be using this template to think through methods of conceiving of our technologies of self. 
-baseurl: "/techofself" # the subpath of your site, e.g. /blog
+  A class website for thinking through methods of conceiving of technologies of the self. 
+baseurl: "" # the subpath of your site, e.g. /blog
 url: "localhost:4000" # the base hostname & protocol for your site
 github_username:  collinjennings
 

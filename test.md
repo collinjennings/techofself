@@ -1,7 +1,7 @@
 ---
 layout: page
-title: test
-permalink: /test/
+title: Sample Markdown
+permalink: /sample/
 ---
 # Test formatting 
 
