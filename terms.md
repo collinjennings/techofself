@@ -2,6 +2,7 @@
 layout: page
 title: Key Terms 
 permalink: /terms/
+categories: ['Overall', 'Theoretical']
 ---
 Here are the key terms that we're collecting throughout the semester: 
 
@@ -28,7 +29,3 @@ Here are the key terms that we're collecting throughout the semester:
 
 **Jekyll** – Open-source software for generating static websites. 
 
-
-
-
-Audio clip: ![test](test_audio.m4a)

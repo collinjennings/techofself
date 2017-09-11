@@ -1,8 +1,8 @@
 ---
 layout: post
 title:  "The Memory Palace"
-date:   2016-04-20 13:27:24 -0400
-
+date:   2017-09-06 13:27:24 -0400
+categories: ['Old Media', 'Orality']
 ---
 ![palace]({{site.baseurl}}/assets/ars_memoria.jpg)
 ## Archictecture of the Mind
