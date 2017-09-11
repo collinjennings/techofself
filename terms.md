@@ -22,6 +22,8 @@ Here are the key terms that we're collecting throughout the semester:
 
 ## Practical 
 
+**virtual machine** – an emulation of a computer system. It’s based on computer architectures and provides the functionality of a physical computer. It’s like you’re on another computer within our actual, physical one. 
+
 **plain text** - as distinguished from formatted text, it only includes characters (the text) without any style information. 
 **Markdown** – a formatting language, like HTML but much simpler.
 
