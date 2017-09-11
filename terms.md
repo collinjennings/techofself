@@ -20,6 +20,12 @@ Here are the key terms that we're collecting throughout the semester:
 
 **grapholect** - "a national written language...[that has been] isolated from its original dialect base, has discarded certain dialectical forms, and has developed also certain syntactical peculiarities" (Ong, 104)
 
+**epitome vs. commonplace** - summarizing vs excerpting 
+
+**adversaria** - technique of producing a summarized outline 
+
+**storage** - involves sorting according to different methods in different media. 
+
 ## Practical 
 
 **virtual machine** – an emulation of a computer system. It’s based on computer architectures and provides the functionality of a physical computer. It’s like you’re on another computer within our actual, physical one. 
@@ -32,4 +38,5 @@ Here are the key terms that we're collecting throughout the semester:
 **jekyll** – Open-source software for generating static websites. 
 
 **nano** - A text editor that we can use to edit markdown files that will become part of our websites. For basic information about using nano, go [here](https://wiki.gentoo.org/wiki/Nano/Basics_Guide).
+
 
