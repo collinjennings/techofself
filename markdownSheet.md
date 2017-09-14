@@ -9,13 +9,13 @@ categories: ['Technical']
 
 Below is a cheatsheet for the most common markdown elements that you'll use. For this formatting to work on your website you need to make sure you include the header found on the sample blog post, you need to save additional posts in the `_posts` folder, and you need to save them as `.md` files: 
 
-###Headings
+### Headings
 To make a line a heading place a # immediately before a word. Using more #s will produce smaller headings. So
 #Largest Heading
 ##Second Largest Heading
 ###Third Largest Heading
 
-###Formatting Words 
+### Formatting Words 
 *word* will italicize a word
 
 **word** will bold a word 
@@ -45,7 +45,7 @@ To set apart text as a blockquote just put an `>` in front:
 
 If a list isn't rendering properly, you probably need to add a a blank line before it. 
 
-###Inserting Links and Media 
+### Inserting Links and Media 
 
 **Link** - Here is how to do a link to the [Miami](https://www.miamioh.edu/) homepage. Brackets around the text and parentheses around the destination link. 
 
