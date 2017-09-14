@@ -19,9 +19,9 @@ To make a line a heading place a # immediately before a word. Using more #s will
 ### Third Largest Heading is 3 ###
 
 ### Formatting Words 
-*word* will italicize a word
+`*word*` will italicize a word
 
-**word** will bold a word 
+`**word**` will bold a word 
 
 `word` will render a word or chunk of words as code. For multiple lines use 3 of these marks: 
 
