@@ -12,11 +12,11 @@ Below is a cheatsheet for the most common markdown elements that you'll use. For
 ### Headings
 To make a line a heading place a # immediately before a word. Using more #s will produce smaller headings. So
 
-# Largest Heading is 1 # 
+# Largest Heading is 1 
 
-## Second Largest Heading is 2 ##
+## Second Largest Heading is 2
 
-### Third Largest Heading is 3 ###
+### Third Largest Heading is 3 
 
 ### Formatting Words 
 `*word*` will italicize a word
