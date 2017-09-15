@@ -4,7 +4,7 @@ title: Basic Nano Workflow
 permalink: /nano/
 categories: ['Technical']
 ---
-Here's step-by-step workflow: 
+Here's the step-by-step workflow: 
 
 ### Logging in and Opening a Post
 1. Log into the virtual machine at [54.226.207.212](http://54.226.207.212)
