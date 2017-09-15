@@ -14,7 +14,7 @@ You are now in your "root" folder that is the folder that corresponds to your un
 	- Either: `cd www' then cd `_posts`
 	- Or: `cd www/_posts`
 
-3. Open an older post in `nano` to work from. For example,
+3. Open an older post in `nano` to work from. For example:
 `nano 2017-09-08-welcome-to-jekyll.markdown`
 
 ### Creating a New Post
