@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Basic Nano Workflow 
-permalink: /markdown/
+permalink: /nano/
 categories: ['Technical']
 ---
 Here's step-by-step workflow: 
