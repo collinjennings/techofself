@@ -53,6 +53,7 @@ If a list isn't rendering properly, you probably need to add a a blank line befo
 **Link** - Here is how to do a link to the [Miami](https://www.miamioh.edu/) homepage. Brackets around the text and parentheses around the destination link. 
 
 **Image** - I can embed an image with similar formatting -- I just add an ! in front. Here's a Leonardo da Vinci's notebook: 
+
 `![notebook](https://i.pinimg.com/originals/70/21/be/7021bed25819ee35494703a53299be69.jpg)`
 
 If I want to change the size of the image, I can use the typical HTML formatting: 
