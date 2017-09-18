@@ -10,7 +10,7 @@ categories: ['Technical']
 Below is a cheatsheet for the most common markdown elements that you'll use. For this formatting to work on your website you need to make sure you include the header found on the sample blog post, you need to save additional posts in the `_posts` folder, and you need to save them as `.md` files: 
 
 ### Headings
-To make a line a heading place a # immediately before a word. Using more #s will produce smaller headings. So
+To make a line a heading place a `#` immediately before a word with a space. Using more #s will produce smaller headings. So
 
 # Largest Heading is 1 
 
@@ -53,10 +53,10 @@ If a list isn't rendering properly, you probably need to add a a blank line befo
 **Link** - Here is how to do a link to the [Miami](https://www.miamioh.edu/) homepage. Brackets around the text and parentheses around the destination link. 
 
 **Image** - I can embed an image with similar formatting -- I just add an ! in front. Here's a Leonardo da Vinci's notebook: 
-![notebook](https://i.pinimg.com/originals/70/21/be/7021bed25819ee35494703a53299be69.jpg)
+`![notebook](https://i.pinimg.com/originals/70/21/be/7021bed25819ee35494703a53299be69.jpg)`
 
 If I want to change the size of the image, I can use the typical HTML formatting: 
-<img src="https://i.pinimg.com/originals/70/21/be/7021bed25819ee35494703a53299be69.jpg" width="100">
+`<img src="https://i.pinimg.com/originals/70/21/be/7021bed25819ee35494703a53299be69.jpg" width="100">`
 
 **Video** - For video, you can just copy and paste the `embed` link for a video (typically this is in a `<iframe` tag. 
 
