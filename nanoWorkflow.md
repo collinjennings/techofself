@@ -11,7 +11,7 @@ Here's the step-by-step workflow:
 You are now in your "root" folder that is the folder that corresponds to your uniqueID. 
 
 2. Navigate to your `_posts` folder using the `cd` (change directory) command:
-	- Either: `cd www' then `cd _posts`
+	- Either: `cd www` then `cd _posts`
 	- Or: `cd www/_posts`
 
 3. Open an older post in `nano` to work from. For example:
