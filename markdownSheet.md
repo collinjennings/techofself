@@ -10,20 +10,18 @@ categories: ['Technical']
 Below is a cheatsheet for the most common markdown elements that you'll use. For this formatting to work on your website you need to make sure you include the header found on the sample blog post, you need to save additional posts in the `_posts` folder, and you need to save them as `.md` files: 
 
 ### Headings
-To make a line a heading place a `#` immediately before a word with a space. Using more #s will produce smaller headings. So
+To make a line a heading place a `#` immediately before a word with a space. Using more #s will produce smaller headings.
 
-# Largest Heading is 1 
+## This heading is produced using 2 `##`s 
 
-## Second Largest Heading is 2
-
-### Third Largest Heading is 3 
+### This heading is produced using 3 `###`s 
 
 ### Formatting Words 
-`*word*` will italicize a word
+`*word*` will *italicize* a word
 
-`**word**` will bold a word 
+`**word**` will **bold** a word 
 
-`word` will render a word or chunk of words as code. For multiple lines use 3 of these marks: 
+`word` will render a word or chunk of words as code. For multiple lines use 3 of these marks in the line before and after : 
 
 ```
 code code 
@@ -38,7 +36,7 @@ To set apart text as a blockquote just put an `>` in front:
 ### Lists 
 **Bulleted lists**
 
-+ Use plus signs for bullets
+`+` Use plus signs for bullets
 + Like this 
 
 **Numbered lists**
@@ -56,11 +54,20 @@ If a list isn't rendering properly, you probably need to add a a blank line befo
 
 `![notebook](https://i.pinimg.com/originals/70/21/be/7021bed25819ee35494703a53299be69.jpg)`
 
+This is the image that the previous line produces:
+![notebook](https://i.pinimg.com/originals/70/21/be/7021bed25819ee35494703a53299be69.jpg)
+
 If I want to change the size of the image, I can use the typical HTML formatting: 
 `<img src="https://i.pinimg.com/originals/70/21/be/7021bed25819ee35494703a53299be69.jpg" width="100">`
 
-**Video** - For video, you can just copy and paste the `embed` link for a video (typically this is in a `<iframe` tag. 
+Like this: 
+<img src="https://i.pinimg.com/originals/70/21/be/7021bed25819ee35494703a53299be69.jpg" width="100">
 
+**Video** - For video, you can just copy and paste the `embed` link for a video (typically this is in a `<iframe` tag. 
+This line: 
+`<iframe width="560" height="315" src="https://www.youtube.com/embed/ioPT8oDoG_I" frameborder="0" allowfullscreen></iframe>`
+
+Embeds this video: 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/ioPT8oDoG_I" frameborder="0" allowfullscreen></iframe>
 
 There are many more things you can do. Just [google](https://www.google.com/search?q=markdown+formatting&oq=markdown+formatting&aqs=chrome..69i57j69i60j0l4.3563j0j7&sourceid=chrome&ie=UTF-8) markdown formatting!
