@@ -2,7 +2,6 @@
 layout: page
 title: Key Terms 
 permalink: /terms/
-categories: ['Overall', 'Theoretical']
 ---
 Here are the key terms that we're collecting throughout the semester: 
 
