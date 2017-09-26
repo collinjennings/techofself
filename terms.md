@@ -28,6 +28,10 @@ Here are the key terms that we're collecting throughout the semester:
 
 **print culture** - embodies all forms of printed text and other printed forms of visual communication. These views are related as the printing press brought a vast rise in literacy, so that one of its effects was simply the great expansion of written culture at the expense of oral culture. The development of printing, like the development of writing itself, had profound effects on human societies and knowledge. "Print culture" refers to the cultural products of the printing transformation. [Wikipedia](https://en.wikipedia.org/wiki/Print_culture)
 
+**technonological determinism** -  reductionist theory that assumes that a society's technology determines the development of its social structure and cultural values. The term is believed to have originated from Thorstein Veblen (1857–1929), an American sociologist and economist. [Wikipedia](https://en.wikipedia.org/wiki/Technological_determinism)
+
+**close reading** - the detailed analysis of the complex interrelations and ambiguities (multiple meanings) of the verbal and figurative components
+within a work. M. H. Abrams, [A Glossary of Literary Terms], 7th ed. (Cornell: 1999), 181. 
 
 
 ## Practical 

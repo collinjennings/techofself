@@ -2,7 +2,6 @@
 layout: page
 title: Using Markdown to Write Webpages
 permalink: /markdown/
-categories: ['Technical']
 ---
 
 **Markdown** is a formatting language like HTML but much simpler. It allows you to use simple symbols to produce website elements like links, headings, and embedded images. 
