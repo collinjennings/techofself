@@ -11,9 +11,9 @@ Below is a cheatsheet for the most common markdown elements that you'll use. For
 ### Headings
 To make a line a heading place a `#` immediately before a word with a space. Using more #s will produce smaller headings.
 
-## This heading is produced using 2 `##`s 
+## This heading is produced using 2 `##`
 
-### This heading is produced using 3 `###`s 
+### This heading is produced using 3 `###`
 
 ### Formatting Words 
 `*word*` will *italicize* a word
