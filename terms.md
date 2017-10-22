@@ -32,7 +32,7 @@ Here are the key terms that we're collecting throughout the semester:
 **close reading** - the detailed analysis of the complex interrelations and ambiguities (multiple meanings) of the verbal and figurative components
 within a work. M. H. Abrams, [A Glossary of Literary Terms](http://www.ohio.edu/people/hartleyg/ref../abrams_mh.pdf), 7th ed. (Cornell: 1999), 181. 
 
-**affordance** - describe the potential uses or actions latent in materials and designs. 
+**affordance** - describes the potential uses or actions latent in materials and designs. 
 
 
 ## Practical 
@@ -51,3 +51,5 @@ within a work. M. H. Abrams, [A Glossary of Literary Terms](http://www.ohio.edu/
 **hypertext** - text displayed on a computer display or other electronic devices with references (hyperlinks) to other text that the reader can immediately access, or where text can be revealed progressively at multiple levels of detail. [Wikipedia](https://en.wikipedia.org/wiki/Hypertext)
 ![hyper](https://upload.wikimedia.org/wikipedia/commons/4/41/Sistema_hipertextual.jpg)
 
+https://drive.google.com/file/d/0B4rkiTF4H1gGTzlsQ3duV0tHSDQ/view?usp=sharing
+https://drive.google.com/uc?export=download&id=0B4rkiTF4H1gGTzlsQ3duV0tHSDQ
