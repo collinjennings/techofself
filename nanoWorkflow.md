@@ -32,7 +32,7 @@ You are now in your "root" folder that is the folder that corresponds to your un
 
 8. Move up to the `www` folder. The easiest way is `cd ..` (that's with a space), which moves you up one folder in the system. 
 
-9. Run the build command: `jekyll build -- destination ../public_html` 
+9. Run the build command: `jekyll build --destination ../public_html` 
 
 If you want to build the website without exiting `nano`, you can always open two windows and have `nano` open in one and just the terminal in the other, then write in one, save, and build the website in the other folder. 
 
