@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Week 9: Human and Machine Minds"
+title:  "Week 10: Human and Machine Minds"
 date:   2017-10-27 09:27:24 -0400
 categories: ['Information']
 ---
