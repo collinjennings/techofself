@@ -11,3 +11,6 @@ In the reading for Monday, Norbert Wiener posits his theory of **cybernetics**, 
 In your reading, don't worry about the math at the beginning of the chapter or the technical scientific concepts. Focus instead on the analogy that Wiener develops between the computer and the human brain. He argues that both have the capability to learn through feedback loops. After explaining Pavlov's work on understanding conditioned reflexes in animals and humans, Wiener claims "**There is nothing in the nature of the computing machine which forbids it to show conditioned reflexes.**" Wiener wrote this in 1948, and in doing so he helped begin a revolution in imagining learning machines that we now see in artificial intelligence and machine learning. 
 
 **What do you think is at stake in exploring an analogy between the computer and the human brain? How does comparing these things change how we think about each one?**
+
+*Here's an example of a feedback loop in the regulation of body temperature: 
+![temp](http://4.bp.blogspot.com/_TfcOBk_NqqE/TIA0F3JyIXI/AAAAAAAAAD4/FS5bGtpiH6Q/s1600/Homeostasis_TempControl.gif)
