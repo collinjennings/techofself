@@ -12,5 +12,6 @@ In your reading, don't worry about the math at the beginning of the chapter or t
 
 **What do you think is at stake in exploring an analogy between the computer and the human brain? How does comparing these things change how we think about each one?**
 
-*Here's an example of a feedback loop in the regulation of body temperature: 
+*Here's an example of a feedback loop in the regulation of body temperature:*
+
 ![temp](http://4.bp.blogspot.com/_TfcOBk_NqqE/TIA0F3JyIXI/AAAAAAAAAD4/FS5bGtpiH6Q/s1600/Homeostasis_TempControl.gif)
