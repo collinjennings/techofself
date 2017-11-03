@@ -1,0 +1,18 @@
+---
+layout: post
+title:  "Week 11: Networks and Visualizing Digital Media"
+date:   2017-09-06 13:27:24 -0400
+categories: ['New Media', 'Visualization']
+---
+This week we begin our third unit in which we fully turn our attention to the culture and technology of digital media. We are beginning with a reading on networks, which many scholars have described as the foundational structure, or organization, of digital media. Here are some questions that we need to address during Monday’s class: 
+
+-	What is a network? What do networks do? 
+-	How does the production and analysis of networks in our historical moment rely upon innovations from the early 20th century, such as information theory and cybernetics? 
+
+The Chun reading (“Habitual Connections, or Network Maps: Belatedly Too Early”) is highly theoretical, and there are a lot of difficult terms and concepts that she refers to. Try to not to get bogged down in that stuff. Focus on how she describes what networks are and how they help us understand the relationship between individuals on a global scale across digital media. For instance, Chun’s discussion of Mark Granovetter’s theory of the ["strength of weak ties"](https://en.wikipedia.org/wiki/Mark_Granovetter) helps us understand how network analysis changed the way social scientists understood the spread of information across social groups: 
+
+>“…Granovetter countered the then dominant presumption that those with the most ties—that is, the social center—are the most powerful or influential. Rather, those with the most weak ties to others most effectively spread information and infection. Notably, this finding redefined what counts as powerful: disseminating rare information (information that cannot be readily gained elsewhere and thus can help one get a job, etc.) became more valuable than disseminating widely (i.e., spreading the same information to the greatest number of people). Granovetter’s analysis moves us away from the mass, measured in terms of sheer force, to the N(You), gauged in terms of unique lines of influence and scarcity” (41-2). 
+
+**As you read, find at least one passage that you can grab onto in order to better understand how networks represent our world.**
+
+![weak ties](http://aphasic-letters.com/network_culture/Strength-Weak-Ties.jpg)
