@@ -4,7 +4,7 @@ title:  "Week 11: Networks and Visualizing Digital Media"
 date:   2017-11-03 13:27:24 -0400
 categories: ['New Media', 'Visualization']
 ---
-This week we begin our third unit in which we fully turn our attention to the culture and technology of digital media. We are beginning with a reading on networks, which many scholars have described as the foundational structure, or organization, of digital media. Here are some questions that we need to address during Monday’s class: 
+This week we begin our third unit in which we fully turn our attention to the culture and technology of digital media. We are beginning with a reading on networks, which many scholars have described as the most fundamental structure in digital media. Here are some questions that we need to address during Monday’s class: 
 
 -	What is a network? What do networks do? 
 -	How does the production and analysis of networks in our historical moment rely upon innovations from the early 20th century, such as information theory and cybernetics? 
