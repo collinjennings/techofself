@@ -1,0 +1,12 @@
+---
+layout: post
+title:  "Week 12: Cybertyping and Race on the Internet"
+date:   2017-10-27 09:27:24 -0400
+categories: ['Information']
+---
+Monday's reading explores how race and other social categories of identity are "remade and "remastered" on the Internet. The essay was written in an earlier historical moment of the web. It describes what the Internet was like in 2000 -- at the height of the Dot Com bubble and pre-9/11. Nakamura's big critical move is to coin the work "cybertype," which she compares to stereotype. She points out that a stereotype originally referred to type of printing press, created for easily copying text and images. It then became a term to refer to any kind of cliché or reductive copy. Nakamura claims that the term "cybertype" acknowledges that "identity online is still 'typed,' still mired in oppressive roles even if the 'body' has been left behind or bracketed." She continues, "I pose it as a corrective to the disturbingly utopian strain I see embodied in most commercial representations of the Internet in general. Chosen identities enabled by technology such as online avatars, cosmetic and transgender surgery and body modifications, and other cyber-prostheses are not breaking the mold of unitary identity, but rather are shifting identity into the realm of the 'virtual,' a place not without its own laws and hierarchies. Supposedly 'fluid' selves are no less subject to cultural hegemonies, rules of conduct, and regulating cultural norms than are 'solid' ones" (318-9). 
+
+![stereotype mold](https://upload.wikimedia.org/wikipedia/commons/f/f8/Fotothek_df_roe-neg_0006484_033_Herstellen_einer_Mater_%28Stereotypie%29.jpg)
+*Stereotype mold being made.* 
+
+As you read and think about Nakamura's essay, consider the extent to which the image of the Internet that she depicts resembles the Internet of our current moment. Also, consider how race operates in Shtyengart's *Super Sad True Love Story*. Recall that it is narrated by two children of immigrants. Lenny's family is Jewish, and they left Russia to escape the Stalinist regime, and similarly, Eunice's family is Korean and left to escape the chaos of the Korean war. How do their racial and cultural identities operate in the dystopian world of the novel? 
