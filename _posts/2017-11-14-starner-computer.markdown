@@ -19,8 +19,7 @@ Thad remarks that the idea for his first wearable computer came when he saw *Ter
 
 *The term **cyborg** first became popular in the English lexicon in the 1980s.*
 
-
-<iframe name="ngram_chart" src="https://books.google.com/ngrams/interactive_chart?content=cyborg&year_start=1800&year_end=2000&corpus=15&smoothing=3&share=&direct_url=t1%3B%2Ccyborg%3B%2Cc0" width=900 height=500 marginwidth=0 marginheight=0 hspace=0 vspace=0 frameborder=0 scrolling=no></iframe>
+![ngram](https://cdn.pbrd.co/images/GTLBdkR.png)
 
 **Where would this essay go next?** 
 - I would research Thad's specific innovations in producing early wearable computers. How did he conceive of the relationship between the body and the machine? In what ways did his wearable computer change and improve over the years? 
