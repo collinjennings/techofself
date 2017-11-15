@@ -9,10 +9,13 @@ Thad Starner recounts first wanting the aid of a wearable device when, as a chil
 *A prototype of Vannevar Bush's Memex Machine, which was first described in 1945.*
 <img src="http://www.maxkemman.nl/slides/2016/images/memex.jpg" alt="memex" height="500" width="700"> 
 
-When Thad stumbled upon the idea of limitless memory in the 1980s, the possibilities of technology were greater than at any previous moment in history. However, in this essay, I argue that the difference between Thad's moment and earlier ones had as much to do with the cultural imagination of his period as the technological capabilities. While the problem he confronted had previously recurred throughout history, his solution of a wearable computer was prompted by theories and representations of cyborgs in the culture. Thad remarks that the idea for his first wearable computer came when he saw *Terminator 2* in the early nineties. The Terminator movies indexed a broader conversation about the potential affordances and pitfalls of cyborgs, ranging from Donna Haraway's feminist theory of the cyborg to earlier movies like *Blade Runner*. 
+When Thad stumbled upon the idea of limitless memory in the 1980s, the possibilities of technology were greater than at any previous moment in history. However, in this essay, I argue that the difference between Thad's moment and earlier ones had as much to do with the cultural imagination of his period as the technological capabilities. While the problem he confronted had previously recurred throughout history, his solution of a wearable computer was prompted by theories and representations of cyborgs in the culture.  
 
 *These guys look the same, right?*
 <img src="https://www.theterminatorfans.com/wp-content/uploads/2016/07/Arnold-Schwarzenegger-Terminator-2.gif" alt="arnold" height="200" width="350"> ![thad](http://archive.boston.com/business/technology/innoeco/mitwearables.jpg)
+
+Thad remarks that the idea for his first wearable computer came when he saw *Terminator 2* in the early nineties. The Terminator movies indexed a broader conversation about the potential affordances and pitfalls of cyborgs, ranging from Donna Haraway's feminist theory of the cyborg to earlier movies like *Blade Runner*.
+
 
 *The term **cyborg** first became popular in the English lexicon in the 1980s.*
 <iframe name="ngram_chart" src="https://books.google.com/ngrams/interactive_chart?content=cyborg&year_start=1800&year_end=2000&corpus=15&smoothing=3&share=&direct_url=t1%3B%2Ccyborg%3B%2Cc0" width=900 height=500 marginwidth=0 marginheight=0 hspace=0 vspace=0 frameborder=0 scrolling=no></iframe>
