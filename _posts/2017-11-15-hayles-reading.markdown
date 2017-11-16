@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Reading - Close, Hyper, Machine"
+title:  "Week 13: Reading - Close, Hyper, Machine"
 date:   2017-11-15 10:27:24 -0400
 categories: ['media']
 ---
